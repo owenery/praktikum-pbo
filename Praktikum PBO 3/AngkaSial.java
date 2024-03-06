@@ -25,3 +25,11 @@ public class AngkaSial {
         }
     }
 }
+
+
+//line (System.out.println(angka + " bukan angka sial"); di eksekusi ketika main mengeksekusi try ke-1, yaitu as.cobaAngka(10).
+//Karena angka tersebut bukan 13, seehingga tidak memenuhi kondisi if dan langsung mencetak angka (10) bukan angka sial.
+
+//line catch (Exception Ase) { di eksekusi ketika main mengeksekusi try ke-2, yaitu as.cobaAngka(13).
+//Karena dia akan masuk ke kondisi if pada method cobaAngka yang menghasilkan throw baru yang mencetak message dari method AngkaSialException.
+//Dan kemudian ditangkan oleh catch dan mencetak hati-hati dalam memasukan angka.
