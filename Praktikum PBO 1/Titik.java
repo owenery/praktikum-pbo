@@ -1,3 +1,8 @@
+//Nama		: David Nugroho
+//NIM		: 24060122130074
+//Tanggal	: 3 Maret 2024
+//Deskripsi	: Class yang berisi program utama untuk class Titik
+
 public class Titik {
 	float absis;
 	float ordinat;
