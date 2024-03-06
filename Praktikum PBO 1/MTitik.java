@@ -1,3 +1,8 @@
+//Nama		: David Nugroho
+//NIM		: 24060122130074
+//Tanggal	: 3 Maret 2024
+//Deskripsi	: Class yang berisi program utama untuk mengaplikasikan class Titik
+
 public class MTitik {
 	public static void main(String[] args) {
 		Titik t1;
